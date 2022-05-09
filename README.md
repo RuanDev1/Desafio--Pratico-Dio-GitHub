@@ -1,2 +1,4 @@
-# Desafio-Pratico-Dio-GitHub
-Este Desafio Faz Parte da PLataforma Dio 
+# Desafio do projeto sobre Git-GitHub da DIO
+Repositorio Criado para o Desafio de Projeto 
+
+Links Uteis de ExtenÇoes do VSCODE(https://marketplace.visualstudio.com/VSCode)
